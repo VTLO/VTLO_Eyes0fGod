@@ -5,7 +5,7 @@ RADIOWAVES FROM MESH NETWORKS INCLUDING WIFI AND BLUETOOTH SIGNALS FROM CLOSEST 
 
 <p align="center"><img src="assets/vtlo-rf-lab-band.gif" alt="RF sensing lab: live CSI spectrum, waterfall, subcarrier map, vitals and link budget" width="100%"></p>
 
-*The walls are not walls. They are a lens.*
+*Radio frequencies realtime visualiser from biological or artificial is based on waveforms reflection and time to get through materials micromeasures to determine correct body/device/etc positioning on mapped close area.*
 
 Radio light passes through a room and returns carrying the shape of everything inside it: a breath, a pulse,
 a body standing very still. EyesOfGod reads that light and shows what it finds.
