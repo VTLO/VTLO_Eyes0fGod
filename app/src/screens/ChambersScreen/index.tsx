@@ -3,10 +3,11 @@ import { Pressable, StyleSheet, View } from 'react-native';
 import { ThemedText } from '@/components/ThemedText';
 import { colors, spacing } from '@/theme';
 import { CHAMBERS, type ChamberId } from './chambers';
+import LiveScreen from '../LiveScreen';
 import { ChamberView } from './ChamberView';
 
 export const ChambersScreen = () => {
-  const [active, setActive] = useState<ChamberId>('observatory');
+  const [active, setActive] = useState<ChamberId>('live');
   const chamber = CHAMBERS.find((c) => c.id === active) ?? CHAMBERS[0];
 
   return (
@@ -26,7 +27,7 @@ export const ChambersScreen = () => {
       </View>
       <ThemedText style={styles.verse}>{chamber.verse}</ThemedText>
       <View style={styles.stage}>
-        <ChamberView html={chamber.html} />
+        {chamber.html === null ? <LiveScreen /> : <ChamberView html={chamber.html} />}
       </View>
     </View>
   );

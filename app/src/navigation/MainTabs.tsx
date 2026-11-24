@@ -5,7 +5,6 @@ import { ThemedText } from '../components/ThemedText';
 import { colors } from '../theme/colors';
 import { useMatStore } from '../stores/matStore';
 import ChambersScreen from '../screens/ChambersScreen';
-import LiveScreen from '../screens/LiveScreen';
 import MATScreen from '../screens/MATScreen';
 import SettingsScreen from '../screens/SettingsScreen';
 import VitalsScreen from '../screens/VitalsScreen';
@@ -16,8 +15,6 @@ import { MainTabsParamList } from './types';
 // once a second chunk had loaded. They are small; heavy 3D code is still split out inside LiveScreen.
 const toIconName = (routeName: keyof MainTabsParamList) => {
   switch (routeName) {
-    case 'Live':
-      return 'wifi';
     case 'Chambers':
       return 'eye';
     case 'Vitals':
@@ -36,7 +33,6 @@ const toIconName = (routeName: keyof MainTabsParamList) => {
 const Tab = createBottomTabNavigator<MainTabsParamList>();
 
 const screens: ReadonlyArray<{ name: keyof MainTabsParamList; component: React.ComponentType }> = [
-  { name: 'Live', component: LiveScreen },
   { name: 'Chambers', component: ChambersScreen },
   { name: 'Vitals', component: VitalsScreen },
   { name: 'Zones', component: ZonesScreen },
