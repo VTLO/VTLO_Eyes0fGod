@@ -1,5 +1,10 @@
 <p align="center"><img src="assets/vtlo-eyesofgod-banner.gif" alt="VTLO_EyesOfGod" width="100%"></p>
 
+<p align="center">
+  <a href="media/VTLO_EyesOfGod_film.mp4"><img src="media/film-preview.gif" alt="Watch the 4-minute film" width="640"></a><br>
+  <sub><a href="media/VTLO_EyesOfGod_film.mp4">&#9654; Watch the film (4:00, narrated by a male and a female voice)</a> &middot; <a href="media/VTLO_EyesOfGod_film.srt">subtitles</a></sub>
+</p>
+
 # VTLO_EyesOfGod
 
 *The walls are not walls. They are a lens.*
