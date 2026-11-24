@@ -4,6 +4,8 @@ RADIOWAVES FROM MESH NETWORKS INCLUDING WIFI AND BLUETOOTH SIGNALS FROM CLOSEST 
 
 <p align="center"><img src="assets/vtlo-eyesofgod-banner.gif" alt="VTLO_EyesOfGod" width="100%"></p>
 
+<p align="center"><img src="assets/vtlo-rf-lab-band.gif" alt="RF sensing lab: live CSI spectrum, waterfall, subcarrier map, vitals and link budget" width="100%"></p>
+
 # VTLO_EyesOfGod
 
 *The walls are not walls. They are a lens.*
