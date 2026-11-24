@@ -11,7 +11,8 @@
     "lint": "eslint .",
     "prebuild:webview": "node scripts/build-live-webview.js",
     "build:chambers": "npm --prefix ../chambers run build",
-    "build:web": "node scripts/build-live-webview.js && expo export --platform web --output-dir dist/web"
+    "build:web": "node scripts/build-live-webview.js && expo export --platform web --output-dir dist/web",
+    "build:web:pages": "node scripts/build-live-webview.js && EXPO_BASE_URL=/VTLO_Eyes0fGod expo export --platform web --output-dir ../docs"
   },
   "dependencies": {
     "@expo/vector-icons": "^15.0.2",

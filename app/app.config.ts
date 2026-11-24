@@ -23,6 +23,7 @@ export default {
     },
     predictiveBackGestureEnabled: false,
   },
+  experiments: { baseUrl: process.env.EXPO_BASE_URL || undefined },
   web: {
     name: 'VTLO_EyesOfGod',
     shortName: 'EyesOfGod',

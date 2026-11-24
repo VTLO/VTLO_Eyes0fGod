@@ -11,13 +11,13 @@ One app, everywhere — **Android** and any **browser**, from a single codebase.
 
 ## The Chambers
 
-| Chamber | What it shows |
-|---|---|
-| **Live** | A translucent figure assembled from signal alone — organs, bone, a pulse that is almost human. |
-| **Observatory** | Breath, heartbeat and presence rendered as concentric fields around the monitored space. |
-| **Vault** | The room remembered as a cloud of points; a skeleton rising out of it. |
-| **Convergence** | Light and radio agree on a single body: camera pose and WiFi CSI fused into one estimate. |
-| **Vitals · Zones · MAT** | Heart and breath rates, occupancy heat, and survivor search. |
+| Chamber | What it shows | Open |
+|---|---|---|
+| **Live** | A translucent figure assembled from signal alone — organs, bone, a pulse that is almost human. | [Enter](https://vtlo.github.io/VTLO_Eyes0fGod/?chamber=live) |
+| **Observatory** | Breath, heartbeat and presence rendered as concentric fields around the monitored space. | [Enter](https://vtlo.github.io/VTLO_Eyes0fGod/chambers/observatory.html) |
+| **Vault** | The room remembered as a cloud of points; a skeleton rising out of it. | [Enter](https://vtlo.github.io/VTLO_Eyes0fGod/chambers/vault.html) |
+| **Convergence** | Light and radio agree on a single body: camera pose and WiFi CSI fused into one estimate. | [Enter](https://vtlo.github.io/VTLO_Eyes0fGod/chambers/convergence.html) |
+| **Vitals · Zones · MAT** | Heart and breath rates, occupancy heat, and survivor search. | [Enter](https://vtlo.github.io/VTLO_Eyes0fGod/) |
 
 The app carries its own oracle: it runs fully on its own. When you own an ESP32-S3 node, bind it in
 **Settings** (or press *Bind a Sensor…* in the Vault) and the chambers listen to your room instead —
@@ -25,7 +25,7 @@ the node itself keeps watching for presence, vital signs and falls even when not
 
 ## Get it
 
-Prebuilt files live in [`releases/`](releases/) (checksums in `SHA256SUMS`):
+The whole app runs in the browser at https://vtlo.github.io/VTLO_Eyes0fGod/ — or prebuilt files live in [`releases/`](releases/) (checksums in `SHA256SUMS`):
 
 - `VTLO_EyesOfGod-android-arm64.apk` — sideload on Android 8+
 - `VTLO_EyesOfGod-web.zip` — unzip and serve the folder from any static host
