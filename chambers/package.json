@@ -1,0 +1,1 @@
+{"name":"eyesofgod-chambers","private":true,"type":"module","scripts":{"build":"node build.mjs"},"devDependencies":{"esbuild":"^0.28.2","three128":"npm:three@^0.128.0","three160":"npm:three@^0.160.0"}}
