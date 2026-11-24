@@ -4,11 +4,6 @@ RADIOWAVES FROM MESH NETWORKS INCLUDING WIFI AND BLUETOOTH SIGNALS FROM CLOSEST 
 
 <p align="center"><img src="assets/vtlo-eyesofgod-banner.gif" alt="VTLO_EyesOfGod" width="100%"></p>
 
-<p align="center">
-  <a href="media/VTLO_EyesOfGod_film.mp4"><img src="media/film-preview.gif" alt="INCIDENT 7-ECHO" width="560"></a><br>
-  <sub><a href="media/VTLO_EyesOfGod_film.mp4">&#9654; Watch INCIDENT 7-ECHO (3:00)</a> &middot; <a href="media/SCENARIO.md">scenario</a></sub>
-</p>
-
 # VTLO_EyesOfGod
 
 *The walls are not walls. They are a lens.*
@@ -57,3 +52,10 @@ npx expo prebuild --platform android && cd android && ./gradlew assembleRelease
 ## Licence
 
 MIT. See `LICENSE` and `NOTICE`.
+
+
+-- UNAUTHORIZED USAGE REPORT -- source unknown
+<p align="center">
+  <a href="media/VTLO_EyesOfGod_film.mp4"><img src="media/film-preview.gif" alt="INCIDENT 7-ECHO" width="560"></a><br>
+  <sub><a href="media/VTLO_EyesOfGod_film.mp4">&#9654; Watch INCIDENT 7-ECHO (3:00)</a> &middot; <a href="media/SCENARIO.md">scenario</a></sub>
+</p>
