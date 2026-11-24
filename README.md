@@ -1,8 +1,8 @@
 <p align="center"><img src="assets/vtlo-eyesofgod-banner.gif" alt="VTLO_EyesOfGod" width="100%"></p>
 
 <p align="center">
-  <a href="media/VTLO_EyesOfGod_film.mp4"><img src="media/film-preview.gif" alt="Watch the 4-minute media stuff" width="640"></a><br>
-  <sub><a href="media/VTLO_EyesOfGod_film.mp4">&#9654; Watch it ! (Unclassified Methodology)</a> &middot; <a href="media/VTLO_EyesOfGod_film.srt">subtitles</a></sub>
+  <a href="media/VTLO_EyesOfGod_film.mp4"><img src="media/film-preview.gif" alt="INCIDENT 7-ECHO" width="560"></a><br>
+  <sub><a href="media/VTLO_EyesOfGod_film.mp4">&#9654; Watch INCIDENT 7-ECHO (3:00)</a> &middot; <a href="media/SCENARIO.md">scenario</a></sub>
 </p>
 
 # VTLO_EyesOfGod
