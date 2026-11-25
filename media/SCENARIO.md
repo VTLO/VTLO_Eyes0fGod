@@ -4,7 +4,7 @@ A night-shift operator at Facility 07 watches an empty wing through the EyesOfGo
 
 | Time | Part | What happens | Picture | Sound |
 |---|---|---|---|---|
-| 0:00–0:14 | **Classified banner** | A fictional FB/NS (Federal Bureau / National Signals Security) access screen boots, glitches and authenticates Operator 0417. | Seal, TOP SECRET marking, progress bar, tearing and RGB splits, "ACCESS GRANTED". | AI voice reads the notice. Static, hum. |
+| 0:00–0:14 | **Restricted-access banner** | A "Site 07" access screen boots, glitches and authenticates Operator 0417. | Seal, RESTRICTED marking, progress bar, tearing and RGB splits, "ACCESS GRANTED". | AI voice reads the notice. Static, hum. |
 | 0:14–0:46 | **Calm** | Routine shift, east wing, no occupants. The only wrongness is a distant sound the operator asks about. | Observatory field, baseline, green "NO OCCUPANTS". | Low drone, room tone, a faint inhuman vocal under the hiss at 0:38. |
 | 0:46–1:18 | **Intrusion** | Presence flags in a sealed wing. Door logs show no entry. | Vault point cloud: a skeleton standing in the room. Red alert, subliminal flash. | First heartbeat, impossibly slow. Sub-boom, growing interference, a roar far away. |
 | 1:18–1:52 | **The lifeform** | Live feed: a translucent figure, heart 23 bpm, no breathing, classified "unresolved". It twitches; it answers the system. | Live X-ray figure, organs, twitching. | Close roar at 1:32, cluster of dissonant tones, the AI says the feed cannot be cut. |
